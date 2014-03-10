@@ -13,7 +13,8 @@ while i <= 10
     i = i + 1
 end
 
-100.times do
+# timesはイテレータ(iterator)と呼ばれるメソッド
+20.times do
     print "ふぁぁぁぁぁぁぁ\n"
 end
 
